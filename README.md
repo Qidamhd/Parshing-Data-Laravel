@@ -17,4 +17,13 @@ Model
 
 ![model](https://github.com/user-attachments/assets/05a54ff6-894c-4f4a-8991-3dcaedf72d8b)
 
+Controller
+
+![controller](https://github.com/user-attachments/assets/862e7e1e-4740-4c3a-b2a6-222e3b00dc01)
+
+web
+
+![web](https://github.com/user-attachments/assets/8bf13c34-4f53-4657-abc5-d2dd96801c82)
+
+
 
