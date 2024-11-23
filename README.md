@@ -7,3 +7,8 @@ Extends Blade Template
 file view_karyawan
 
 ![view_karyawan](https://github.com/user-attachments/assets/2470cf86-743b-4226-b5ad-0c50191f1cc1)
+
+
+file edit_karyawan
+
+![view_edit](https://github.com/user-attachments/assets/e5b175c4-e431-4857-98d7-a6250b1f9724)
