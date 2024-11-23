@@ -12,3 +12,9 @@ file view_karyawan
 file edit_karyawan
 
 ![view_edit](https://github.com/user-attachments/assets/e5b175c4-e431-4857-98d7-a6250b1f9724)
+
+Model
+
+![model](https://github.com/user-attachments/assets/05a54ff6-894c-4f4a-8991-3dcaedf72d8b)
+
+
